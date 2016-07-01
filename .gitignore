@@ -1,0 +1,17 @@
+/.idea
+/build
+/dist
+/out
+**/.DS_Store
+**.iml
+**.idea
+**.log
+**/target
+**/activemq-data
+.classpath
+.project
+.settings/
+*.swp
+**.mvn
+build_java.xml
+build_sonar.xml
